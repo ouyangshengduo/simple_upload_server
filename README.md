@@ -1,0 +1,2 @@
+# simple_upload_server
+一个简单的基于django的文件上传服务
