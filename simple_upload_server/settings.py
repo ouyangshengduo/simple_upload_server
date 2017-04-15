@@ -181,9 +181,9 @@ LOGGING = {
 }
 
 
-REQUEST_KEY = "uxu20Momqyv860CUAMAqnD3RhO5yOWmt9B55wepNJUc="
+REQUEST_KEY = "uxu20Momqyv860CUAewnbcu2P3RhO5yOWmt9B55wepNJUc=/+saundheubc"
 
 IMG_PATH = "/data/static/images/"
 FILE_PATH = "/data/static/files/"
 SOURCE_PATH = "/data/static/source/"
-API_HOST = "http://img.winlesson.com"
+API_HOST = ""
